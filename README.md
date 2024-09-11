@@ -1,1 +1,0 @@
-This report presents a comprehensive analysis of sales data for a Urban Bazaar. It aims to provide insights into sales performance, profitability, and regional distribution using key performance indicators (KPIs) and pivot tables.
